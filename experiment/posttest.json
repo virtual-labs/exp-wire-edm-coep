@@ -2,37 +2,75 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "WEDM generally uses,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Fixed frequency, pulse time (&tau;p ) and pulse off time (Toff)",
+        "b": "Variable frequency, pulse time (&tau;p ) and pulse off time (Toff)",
+        "c": "Constant Voltage and Current",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The material removal rate depends on",
+      "answers": {
+        "a": "Pulse time (&tau;p )",
+        "b": "Current (Ip)",
+        "c": "pulse off time (Toff)",
+        "d": "All of the above"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Selection of process parameters are done on the basis of job",
+      "answers": {
+        "a": "Specification",
+        "b": "Roughness",
+        "c": "Matrix",
+        "d": "Productivity"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Wire EDM is generally used for ferrous materials with",
+      "answers": {
+        "a": "Direct polarity (Wire -ve and work +ve)",
+        "b": "Reverse polarity (Wire +ve and work -ve)",
+        "c": "The machine automatically selects polarity",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Does porosity in job material affect machining process?",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "At times",
+        "d": "None of Above"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Accuracy of the job depends upon",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pulse time (&tau;p )",
+        "b": "Current (Ip)",
+        "c": "Wire speed",
+        "d": "Wire tension and feed rate"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

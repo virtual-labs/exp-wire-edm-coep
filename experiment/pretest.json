@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "WEDM is used for",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Die sinking operation",
+        "b": "Pocketing operation",
+        "c": "Cutting operation",
+        "d": "For machining electrically non conductive material"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The tool is of the form",
+      "answers": {
+        "a": "Shape of the job",
+        "b": "Wire",
+        "c": "Solid rod",
+        "d": "Disc"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Cutting of very hard electrically conductive material in EDM ,can be performed using",
+      "answers": {
+        "a": "Wire",
+        "b": "Metallic Ribbon",
+        "c": "Thin metallic softened discs",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The dielectric fluid used in wire EDM, is generally",
+      "answers": {
+        "a": "Water (De-ionized)",
+        "b": "Kerosene",
+        "c": "Water + Kerosene",
+        "d": "Inert gas"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "CNC wire EDM, are generally",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "2 axis",
+        "b": "3 axis",
+        "c": "4 axis",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
