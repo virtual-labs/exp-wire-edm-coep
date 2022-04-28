@@ -1,6 +1,12 @@
 ### Theory
 
-Influence of Process parameters on the Wire EDM process:-
+### Prerequisite
+For better understanding of the experiment a candidate should acquire following knowledge
+
+1.   Basic knowledge of Wire Electrical Discharge Machining
+2.   Various terminologies related to pulse
+
+**Influence of Process parameters on the Wire EDM process:-**
 
 The main goal of WEDM manufacturers and users is to achieve a better stability of the process and higher productivity. As newer, more exotic materials are developed, and more complex shapes are presented, conventional machining operations reach their limitations; hence the increased use of WEDM in manufacturing continues to grow at an accelerated rate. Wire electrical discharge machining manufacturers and user emphasize on achievement of higher machining productivity with a desired accuracy and surface finish. However, due to a large number of variables even a highly skilled operator with a state-of the art WEDM is rarely able to achieve the optimal performance.
 The optimum utilization of the capacity of WEDM process requires proper selection of machining parameters. This part of literature review aims to investigate the effect of various process parameters on desirable output. WEDM is complex in nature and is controlled by large number of parameter as shown in Figure 1.1.
