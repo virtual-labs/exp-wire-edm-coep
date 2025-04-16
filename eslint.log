@@ -1,0 +1,514 @@
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/chosen.jquery.min.js
+  10:2270   warning  'a' is defined but never used           no-unused-vars
+  10:2404   warning  'a' is defined but never used           no-unused-vars
+  10:3216   warning  'a' is defined but never used           no-unused-vars
+  10:4082   warning  'b' is assigned a value but never used  no-unused-vars
+  10:4370   warning  'jQuery' is not defined                 no-undef
+  10:4507   warning  'd' is defined but never used           no-unused-vars
+  10:9087   warning  'a' is defined but never used           no-unused-vars
+  10:12567  warning  'a' is defined but never used           no-unused-vars
+  10:20146  warning  'd' is assigned a value but never used  no-unused-vars
+  10:20852  warning  'AbstractChosen' is not defined         no-undef
+  10:20895  warning  'b' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/edm.js
+  722:71  error  Parsing error: Argument name clash
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/edm1.js
+  727:71  error  Parsing error: Argument name clash
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/exporting.js
+   9:19   warning  'Highcharts' is not defined       no-undef
+  14:201  warning  'Highcharts' is not defined       no-undef
+  14:318  warning  'e' is already defined            no-redeclare
+  15:489  warning  Unnecessary escape character: \/  no-useless-escape
+  16:361  warning  'b' is already defined            no-redeclare
+  20:57   warning  'b' is already defined            no-redeclare
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/g.js
+  1:16  error  Parsing error: Unexpected token :
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/graph1.js
+  1:16  error  Parsing error: Unexpected token :
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/highcharts.js
+   10:101  warning  'b' is already defined                                           no-redeclare
+   10:131  warning  'd' is already defined                                           no-redeclare
+   10:161  warning  'e' is already defined                                           no-redeclare
+   10:174  warning  'c' is already defined                                           no-redeclare
+   10:411  warning  'a' is already defined                                           no-redeclare
+   11:145  warning  'g' is already defined                                           no-redeclare
+   17:475  warning  'e' is already defined                                           no-redeclare
+   18:21   warning  'i' is already defined                                           no-redeclare
+   23:184  warning  'd' is already defined                                           no-redeclare
+   24:223  warning  'Ab' is already defined                                          no-redeclare
+   25:257  warning  'a' is already defined                                           no-redeclare
+   25:357  warning  'd' is already defined                                           no-redeclare
+   25:401  warning  'd' is already defined                                           no-redeclare
+   31:283  warning  'e' is already defined                                           no-redeclare
+   31:341  warning  'c' is already defined                                           no-redeclare
+   32:27   warning  'd' is already defined                                           no-redeclare
+   32:196  warning  'a' is already defined                                           no-redeclare
+   32:242  warning  'c' is already defined                                           no-redeclare
+   37:160  warning  'c' is already defined                                           no-redeclare
+   41:89   warning  'a' is already defined                                           no-redeclare
+   42:335  warning  'f' is already defined                                           no-redeclare
+   43:62   warning  'a' is already defined                                           no-redeclare
+   45:212  warning  'e' is already defined                                           no-redeclare
+   45:227  warning  'd' is already defined                                           no-redeclare
+   46:315  warning  'a' is already defined                                           no-redeclare
+   49:387  warning  'b' is already defined                                           no-redeclare
+   50:213  warning  'a' is already defined                                           no-redeclare
+   56:28   warning  'a' is already defined                                           no-redeclare
+   56:59   warning  'A' is already defined                                           no-redeclare
+   57:79   warning  'h' is already defined                                           no-redeclare
+   57:240  warning  'a' is already defined                                           no-redeclare
+   72:52   warning  'a' is already defined                                           no-redeclare
+   72:79   warning  'b' is already defined                                           no-redeclare
+   72:171  warning  'b' is already defined                                           no-redeclare
+   73:103  warning  'b' is already defined                                           no-redeclare
+   73:151  warning  'b' is already defined                                           no-redeclare
+   73:166  warning  'c' is already defined                                           no-redeclare
+   74:292  warning  'jQuery' is not defined                                          no-undef
+   74:299  warning  'l' is already defined                                           no-redeclare
+   74:386  warning  'lc' is already defined                                          no-redeclare
+   74:397  warning  'qb' is already defined                                          no-redeclare
+   74:487  warning  'Q' is already defined                                           no-redeclare
+   75:58   warning  'ha' is already defined                                          no-redeclare
+   75:94   warning  'Na' is already defined                                          no-redeclare
+   75:229  warning  'ga' is already defined                                          no-redeclare
+   75:397  warning  'Ub' is already defined                                          no-redeclare
+   75:476  warning  'Eb' is already defined                                          no-redeclare
+   76:88   warning  'jQuery' is not defined                                          no-undef
+   76:115  warning  'jQuery' is not defined                                          no-undef
+   84:181  warning  'y' is already defined                                           no-redeclare
+   85:447  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   87:95   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   92:227  warning  'a' is already defined                                           no-redeclare
+   92:486  warning  'b' is already defined                                           no-redeclare
+   95:147  warning  'c' is already defined                                           no-redeclare
+  101:382  warning  'c' is already defined                                           no-redeclare
+  103:98   warning  'c' is already defined                                           no-redeclare
+  106:322  warning  'g' is already defined                                           no-redeclare
+  108:118  warning  'f' is already defined                                           no-redeclare
+  108:126  warning  'd' is already defined                                           no-redeclare
+  108:341  warning  'a' is already defined                                           no-redeclare
+  108:474  warning  'b' is already defined                                           no-redeclare
+  108:493  warning  'c' is already defined                                           no-redeclare
+  110:29   warning  'b' is already defined                                           no-redeclare
+  110:41   warning  'c' is already defined                                           no-redeclare
+  110:53   warning  'a' is already defined                                           no-redeclare
+  111:95   warning  'd' is already defined                                           no-redeclare
+  115:39   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  117:3    warning  'c' is already defined                                           no-redeclare
+  117:26   warning  'd' is already defined                                           no-redeclare
+  120:293  warning  'b' is already defined                                           no-redeclare
+  122:153  warning  'a' is already defined                                           no-redeclare
+  124:342  warning  'd' is already defined                                           no-redeclare
+  125:167  warning  'd' is already defined                                           no-redeclare
+  125:190  warning  'c' is already defined                                           no-redeclare
+  128:32   warning  'a' is already defined                                           no-redeclare
+  129:327  warning  'b' is already defined                                           no-redeclare
+  131:292  warning  'a' is already defined                                           no-redeclare
+  133:208  warning  'b' is already defined                                           no-redeclare
+  135:334  warning  'a' is already defined                                           no-redeclare
+  136:368  warning  'a' is already defined                                           no-redeclare
+  141:34   warning  'a' is already defined                                           no-redeclare
+  141:42   warning  'b' is already defined                                           no-redeclare
+  141:50   warning  'c' is already defined                                           no-redeclare
+  141:58   warning  'd' is already defined                                           no-redeclare
+  143:39   warning  Unnecessary escape character: \.                                 no-useless-escape
+  148:349  warning  'f' is already defined                                           no-redeclare
+  150:379  warning  'b' is already defined                                           no-redeclare
+  150:393  warning  'a' is already defined                                           no-redeclare
+  151:218  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  152:381  warning  'h' is already defined                                           no-redeclare
+  154:141  warning  'g' is already defined                                           no-redeclare
+  156:211  warning  'h' is already defined                                           no-redeclare
+  156:275  warning  'z' is already defined                                           no-redeclare
+  159:446  warning  'a' is already defined                                           no-redeclare
+  162:167  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  163:347  warning  'b' is already defined                                           no-redeclare
+  164:183  warning  'y' is assigned a value but never used                           no-unused-vars
+  164:213  warning  'f' is already defined                                           no-redeclare
+  164:241  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  167:238  warning  'm' is already defined                                           no-redeclare
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/highcharts.src.js
+    13:10   warning  'document' is already defined as a built-in global variable       no-redeclare
+    13:20   warning  'window' is already defined as a built-in global variable         no-redeclare
+    13:28   warning  'navigator' is already defined as a built-in global variable      no-redeclare
+    13:39   warning  'setInterval' is already defined as a built-in global variable    no-redeclare
+    13:52   warning  'clearInterval' is already defined as a built-in global variable  no-redeclare
+    13:67   warning  'clearTimeout' is already defined as a built-in global variable   no-redeclare
+    13:81   warning  'setTimeout' is already defined as a built-in global variable     no-redeclare
+    13:93   warning  'location' is already defined as a built-in global variable       no-redeclare
+    13:111  warning  '$' is defined but never used                                     no-unused-vars
+  2425:45   warning  Unnecessary escape character: \"                                  no-useless-escape
+  2425:79   warning  Unnecessary escape character: \"                                  no-useless-escape
+  6569:8    warning  'lastWasOutsidePlot' is assigned a value but never used           no-unused-vars
+  9609:23   warning  Unnecessary escape character: \.                                  no-useless-escape
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/jquery-1.5.1.min.js
+  16:420    warning  Empty block statement                                            no-empty
+  16:477    warning  Empty block statement                                            no-empty
+  16:3390   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:3617   warning  'b' is defined but never used                                    no-unused-vars
+  16:3886   warning  'd' is defined but never used                                    no-unused-vars
+  16:4063   warning  'e' is defined but never used                                    no-unused-vars
+  16:4275   warning  'l' is defined but never used                                    no-unused-vars
+  16:5767   warning  Empty block statement                                            no-empty
+  16:6044   warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:6146   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:6231   warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:6281   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:6320   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:9664   warning  Empty block statement                                            no-empty
+  16:10223  warning  Empty block statement                                            no-empty
+  16:10668  warning  'ActiveXObject' is not defined                                   no-undef
+  16:11468  warning  Empty block statement                                            no-empty
+  16:13134  warning  Unnecessary catch clause                                         no-useless-catch
+  16:16420  warning  Empty block statement                                            no-empty
+  16:20728  warning  'b' is defined but never used                                    no-unused-vars
+  16:21551  warning  'b' is defined but never used                                    no-unused-vars
+  16:22777  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:25734  warning  Empty block statement                                            no-empty
+  16:26067  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:26632  warning  'i' is defined but never used                                    no-unused-vars
+  16:26862  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:27451  warning  'g' is assigned a value but never used                           no-unused-vars
+  16:28281  warning  Empty block statement                                            no-empty
+  16:28650  warning  Empty block statement                                            no-empty
+  16:31994  warning  Empty block statement                                            no-empty
+  16:32342  warning  'a' is defined but never used                                    no-unused-vars
+  16:32344  warning  'b' is defined but never used                                    no-unused-vars
+  16:32779  warning  'a' is defined but never used                                    no-unused-vars
+  16:33850  warning  'a' is defined but never used                                    no-unused-vars
+  16:33852  warning  'b' is defined but never used                                    no-unused-vars
+  16:33991  warning  'a' is defined but never used                                    no-unused-vars
+  16:37347  warning  Unnecessary escape character: \[                                 no-useless-escape
+  16:37373  warning  Unnecessary escape character: \[                                 no-useless-escape
+  16:37398  warning  Unnecessary escape character: \[                                 no-useless-escape
+  16:39092  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:40105  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40146  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40196  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40246  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40310  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40357  warning  Unnecessary escape character: \*                                 no-useless-escape
+  16:40359  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40429  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40442  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40460  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40541  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40578  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:40608  warning  Unnecessary escape character: \)                                 no-useless-escape
+  16:40617  warning  Unnecessary escape character: \(                                 no-useless-escape
+  16:40619  warning  Unnecessary escape character: \)                                 no-useless-escape
+  16:40940  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:40992  warning  Empty block statement                                            no-empty
+  16:42327  warning  'b' is defined but never used                                    no-unused-vars
+  16:42482  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:44724  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:44799  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  16:44816  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:45929  warning  Unnecessary escape character: \[                                 no-useless-escape
+  16:45941  warning  Unnecessary escape character: \(                                 no-useless-escape
+  16:48577  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:48590  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:48999  warning  Empty block statement                                            no-empty
+  16:49281  warning  Empty block statement                                            no-empty
+  16:49616  warning  Unnecessary escape character: \=                                 no-useless-escape
+  16:49740  warning  Empty block statement                                            no-empty
+  16:50595  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:50951  warning  Unnecessary escape character: \[                                 no-useless-escape
+  16:50953  warning  Unnecessary escape character: \.                                 no-useless-escape
+  16:53883  warning  'd' is defined but never used                                    no-unused-vars
+  16:62409  warning  Empty block statement                                            no-empty
+  16:63670  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:64623  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:64797  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:64864  warning  Unnecessary escape character: \+                                 no-useless-escape
+  16:64866  warning  Unnecessary escape character: \.                                 no-useless-escape
+  16:64868  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:64881  warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:65952  warning  'c' is defined but never used                                    no-unused-vars
+  16:67348  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:67410  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:68265  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:70535  warning  Unnecessary escape character: \=                                 no-useless-escape
+  16:72842  warning  Empty block statement                                            no-empty
+  16:73442  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:73454  warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:79795  warning  Empty block statement                                            no-empty
+  16:80932  warning  'f' is assigned a value but never used                           no-unused-vars
+  16:82397  warning  'g' is assigned a value but never used                           no-unused-vars
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/jquery-1.6.2.min.js
+  16:820    warning  Empty block statement                                            no-empty
+  16:877    warning  Empty block statement                                            no-empty
+  16:4181   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:4409   warning  'b' is defined but never used                                    no-unused-vars
+  16:4685   warning  'd' is defined but never used                                    no-unused-vars
+  16:4861   warning  'd' is defined but never used                                    no-unused-vars
+  16:5073   warning  'l' is defined but never used                                    no-unused-vars
+  16:6877   warning  Empty block statement                                            no-empty
+  16:7181   warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:7283   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:7368   warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:7418   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:7457   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:10926  warning  Empty block statement                                            no-empty
+  16:11936  warning  'ActiveXObject' is not defined                                   no-undef
+  16:16920  warning  'r' is defined but never used                                    no-unused-vars
+  16:20036  warning  Redundant double negation                                        no-extra-boolean-cast
+  16:20561  warning  Redundant double negation                                        no-extra-boolean-cast
+  16:22433  warning  'e' is defined but never used                                    no-unused-vars
+  16:23155  warning  'c' is assigned a value but never used                           no-unused-vars
+  16:23265  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:23657  warning  Unnecessary escape character: \:                                 no-useless-escape
+  16:23975  warning  Empty block statement                                            no-empty
+  16:25072  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:30691  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:31256  warning  'i' is defined but never used                                    no-unused-vars
+  16:31485  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:32074  warning  'g' is assigned a value but never used                           no-unused-vars
+  17:1062   warning  Empty block statement                                            no-empty
+  17:4632   warning  'a' is defined but never used                                    no-unused-vars
+  17:4634   warning  'b' is defined but never used                                    no-unused-vars
+  17:5042   warning  'a' is defined but never used                                    no-unused-vars
+  17:6125   warning  'a' is defined but never used                                    no-unused-vars
+  17:6127   warning  'b' is defined but never used                                    no-unused-vars
+  17:6266   warning  'a' is defined but never used                                    no-unused-vars
+  17:9740   warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:9766   warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:9791   warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:11485  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:12497  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12538  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12588  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12638  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12702  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12749  warning  Unnecessary escape character: \*                                 no-useless-escape
+  17:12751  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12821  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12834  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12852  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12933  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12970  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:13000  warning  Unnecessary escape character: \)                                 no-useless-escape
+  17:13009  warning  Unnecessary escape character: \(                                 no-useless-escape
+  17:13011  warning  Unnecessary escape character: \)                                 no-useless-escape
+  17:13331  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:14711  warning  'b' is defined but never used                                    no-unused-vars
+  17:14866  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:17568  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:17643  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  17:17660  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:18773  warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:18785  warning  Unnecessary escape character: \(                                 no-useless-escape
+  17:21483  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:21496  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:21905  warning  Empty block statement                                            no-empty
+  17:22187  warning  Empty block statement                                            no-empty
+  17:22568  warning  Unnecessary escape character: \=                                 no-useless-escape
+  17:22749  warning  Empty block statement                                            no-empty
+  17:23605  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:23961  warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:23963  warning  Unnecessary escape character: \.                                 no-useless-escape
+  17:27092  warning  'd' is defined but never used                                    no-unused-vars
+  17:27559  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:27561  warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:2210   warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:2225   warning  Unnecessary escape character: \.                                 no-useless-escape
+  18:3245   warning  Empty block statement                                            no-empty
+  18:4545   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  18:5498   warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:5510   warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:5698   warning  Unnecessary escape character: \+                                 no-useless-escape
+  18:5700   warning  Unnecessary escape character: \.                                 no-useless-escape
+  18:5702   warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:5718   warning  Unnecessary escape character: \/                                 no-useless-escape
+  18:6784   warning  'c' is defined but never used                                    no-unused-vars
+  18:8179   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  18:8241   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  18:9110   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  18:11453  warning  Unnecessary escape character: \=                                 no-useless-escape
+  18:13818  warning  Empty block statement                                            no-empty
+  18:14449  warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:14461  warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:20898  warning  Empty block statement                                            no-empty
+  18:22035  warning  'e' is assigned a value but never used                           no-unused-vars
+  18:22514  warning  'g' is defined but never used                                    no-unused-vars
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/jquery.js
+    33:20   warning  Unnecessary escape character: \[                                 no-useless-escape
+    33:22   warning  Unnecessary escape character: \.                                 no-useless-escape
+   692:85   warning  Empty block statement                                            no-empty
+   746:13   warning  'name' is already defined                                        no-redeclare
+   754:4    warning  Move function declaration to function body root                  no-inner-declarations
+   818:34   warning  Unnecessary escape character: \-                                 no-useless-escape
+   897:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  1170:48   warning  Unnecessary escape character: \/                                 no-useless-escape
+  1404:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  1421:105  warning  Unnecessary escape character: \[                                 no-useless-escape
+  1436:36   warning  'check' is defined but never used                                no-unused-vars
+  1436:43   warning  'mode' is defined but never used                                 no-unused-vars
+  1514:14   warning  'i' is already defined                                           no-redeclare
+  1528:4    warning  'hasDuplicate' is not defined                                    no-undef
+  1531:9    warning  'hasDuplicate' is not defined                                    no-undef
+  1532:15   warning  'i' is already defined                                           no-redeclare
+  1556:29   warning  'match' is already defined                                       no-redeclare
+  1661:30   warning  Unnecessary escape character: \*                                 no-useless-escape
+  1664:63   warning  Unnecessary escape character: \)                                 no-useless-escape
+  1664:74   warning  Unnecessary escape character: \(                                 no-useless-escape
+  1664:76   warning  Unnecessary escape character: \)                                 no-useless-escape
+  1687:69   warning  Empty block statement                                            no-empty
+  1713:15   warning  'i' is already defined                                           no-redeclare
+  1713:22   warning  'l' is already defined                                           no-redeclare
+  1714:10   warning  'elem' is already defined                                        no-redeclare
+  1755:34   warning  'isXML' is defined but never used                                no-unused-vars
+  1797:48   warning  Empty block statement                                            no-empty
+  1949:15   warning  'i' is already defined                                           no-redeclare
+  1963:13   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  1968:5    warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  1969:13   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2055:65   warning  Unnecessary escape character: \[                                 no-useless-escape
+  2055:77   warning  Unnecessary escape character: \(                                 no-useless-escape
+  2087:15   warning  'i' is already defined                                           no-redeclare
+  2103:4    warning  'hasDuplicate' is not defined                                    no-undef
+  2111:4    warning  'hasDuplicate' is not defined                                    no-undef
+  2124:4    warning  'hasDuplicate' is not defined                                    no-undef
+  2144:7    warning  Redundant double negation                                        no-extra-boolean-cast
+  2219:14   warning  Empty block statement                                            no-empty
+  2401:41   warning  'elem' is defined but never used                                 no-unused-vars
+  2425:1    warning  Unreachable code                                                 no-unreachable
+  2526:50   warning  'index' is defined but never used                                no-unused-vars
+  2653:16   warning  Empty block statement                                            no-empty
+  3174:12   warning  Empty block statement                                            no-empty
+  3303:37   warning  'i' is defined but never used                                    no-unused-vars
+  3382:38   warning  'ActiveXObject' is not defined                                   no-undef
+  3439:44   warning  Empty block statement                                            no-empty
+  3469:31   warning  Unnecessary escape character: \/                                 no-useless-escape
+  3537:13   warning  Empty block statement                                            no-empty
+  3595:17   warning  Empty block statement                                            no-empty
+  3688:13   warning  Empty block statement                                            no-empty
+  3699:13   warning  Empty block statement                                            no-empty
+  3738:4    warning  Unnecessary semicolon                                            no-extra-semi
+  3817:14   warning  'i' is already defined                                           no-redeclare
+  3817:21   warning  'l' is already defined                                           no-redeclare
+  3837:14   warning  'i' is already defined                                           no-redeclare
+  3837:21   warning  'l' is already defined                                           no-redeclare
+  4154:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  4155:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  4156:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  4202:5    warning  'prevOffsetParent' is assigned a value but never used            no-unused-vars
+  4224:92   warning  'table' is defined but never used                                no-unused-vars
+  4261:7    warning  'left' is assigned a value but never used                        no-unused-vars
+  4261:17   warning  'top' is assigned a value but never used                         no-unused-vars
+  4314:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  4330:6    warning  'tl' is assigned a value but never used                          no-unused-vars
+  4331:3    warning  'br' is assigned a value but never used                          no-unused-vars
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/jquery.qtip.min.js
+  13:147    warning  'window' is already defined as a built-in global variable        no-redeclare
+  13:177    warning  'console' is already defined as a built-in global variable       no-redeclare
+  13:1661   warning  Empty block statement                                            no-empty
+  13:2091   warning  Empty block statement                                            no-empty
+  13:2886   warning  's' is defined but never used                                    no-unused-vars
+  13:3765   warning  'h' is defined but never used                                    no-unused-vars
+  13:4641   warning  'h' is defined but never used                                    no-unused-vars
+  13:5378   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  13:5612   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  13:7115   warning  'c' is defined but never used                                    no-unused-vars
+  13:7378   warning  'x' is assigned a value but never used                           no-unused-vars
+  13:8340   warning  't' is assigned a value but never used                           no-unused-vars
+  13:8354   warning  'v' is assigned a value but never used                           no-unused-vars
+  13:11091  warning  'j' is assigned a value but never used                           no-unused-vars
+  13:11708  warning  Empty block statement                                            no-empty
+  13:13957  warning  Empty block statement                                            no-empty
+  13:14996  warning  'a' is defined but never used                                    no-unused-vars
+  13:15147  warning  'd' is assigned a value but never used                           no-unused-vars
+  13:18971  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  13:21584  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  13:22642  warning  'o' is defined but never used                                    no-unused-vars
+  13:23929  warning  'h' is defined but never used                                    no-unused-vars
+  13:30940  warning  'c' is assigned a value but never used                           no-unused-vars
+  13:31143  warning  'r' is assigned a value but never used                           no-unused-vars
+  13:34453  warning  'c' is assigned a value but never used                           no-unused-vars
+  13:34461  warning  'd' is assigned a value but never used                           no-unused-vars
+  13:34899  warning  Empty block statement                                            no-empty
+  13:35316  warning  'e' is defined but never used                                    no-unused-vars
+  13:36850  warning  'm' is defined but never used                                    no-unused-vars
+  13:38612  warning  'c' is defined but never used                                    no-unused-vars
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/jquery.simplemodal.js
+  10:276  warning  'jQuery' is not defined    no-undef
+  23:134  warning  'b' is assigned to itself  no-self-assign
+  23:138  warning  'c' is assigned to itself  no-self-assign
+  25:246  warning  'jQuery' is not defined    no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/jquery.tinyscrollbar.min.js
+  1:223   warning  'b' is defined but never used  no-unused-vars
+  1:433   warning  'b' is already defined         no-redeclare
+  1:2519  warning  'c' is already defined         no-redeclare
+  1:2713  warning  'jQuery' is not defined        no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/model.js
+   1:1   warning  'jQuery' is not defined              no-undef
+  23:13  warning  'drawgraph_MrrvsTon' is not defined  no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/model1.js
+   1:1   warning  'jQuery' is not defined  no-undef
+  23:13  warning  'image' is not defined   no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/model2.js
+   1:1   warning  'jQuery' is not defined        no-undef
+  23:13  warning  'drawgraph_Ra' is not defined  no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/raphael.js
+  3718:58  error  Parsing error: Deleting local variable in strict mode
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/swfobject.js
+  4:1074  warning  'ActiveXObject' is not defined          no-undef
+  4:1245  warning  Empty block statement                   no-empty
+  4:1297  warning  'k' is assigned a value but never used  no-unused-vars
+  4:6921  warning  Empty block statement                   no-empty
+  4:7918  warning  Unnecessary escape character: \"        no-useless-escape
+  4:7922  warning  Unnecessary escape character: \.        no-useless-escape
+  4:8017  warning  'd' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/themes/dark-blue.js
+    6:1   warning  'Highcharts' is not defined                             no-undef
+  263:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  263:25  warning  'Highcharts' is not defined                             no-undef
+  263:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/themes/dark-green.js
+    6:1   warning  'Highcharts' is not defined                             no-undef
+  263:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  263:25  warning  'Highcharts' is not defined                             no-undef
+  263:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/themes/gray.js
+    6:1   warning  'Highcharts' is not defined                             no-undef
+  262:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  262:25  warning  'Highcharts' is not defined                             no-undef
+  262:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/themes/grid.js
+   6:1   warning  'Highcharts' is not defined                             no-undef
+  95:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  95:25  warning  'Highcharts' is not defined                             no-undef
+  95:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-wire-edm-coep/exp-wire-edm-coep/experiment/simulation/js/themes/skies.js
+   6:1   warning  'Highcharts' is not defined                             no-undef
+  89:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  89:25  warning  'Highcharts' is not defined                             no-undef
+  89:47  warning  'Highcharts' is not defined                             no-undef
+
+✖ 462 problems (5 errors, 457 warnings)
+  0 errors and 4 warnings potentially fixable with the `--fix` option.
+
